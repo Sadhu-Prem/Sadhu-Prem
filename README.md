@@ -11,20 +11,18 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **JavaScript, smart contract security, and building full-stack decentralized applications (dApps) with Web3 technologies.**
+# 💫 About Me:
+🌱 I’m currently learning JavaScript, smart contract security, and building full-stack decentralized applications (dApps) with Web3 technologies.<br><br>👨‍💻 All of my projects are available at https://github.com/Sadhu-Prem<br><br>📝 I regularly write articles on SOON<br><br>💬 Ask me about smart contracts, Solidity, blockchain development, Python scripting, or how to get started in Web3.<br><br>📫 How to reach me Email – sadhublockchain.dev@gmail.com<br><br>📄 Know about my experiences SOON<br><br>⚡ Fun fact I treat GitHub like my diary — full of daily code entries 📓👨‍💻
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sadhu-Prem](https://github.com/Sadhu-Prem)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sadhu-Prem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sadhu-Prem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadhu-Prem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📝 I regularly write articles on [SOON](SOON)
+---
+[![](https://visitcount.itsvg.in/api?id=Sadhu-Prem&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about **smart contracts, Solidity, blockchain development, Python scripting, or how to get started in Web3.**
-
-- 📫 How to reach me **Email – sadhublockchain.dev@gmail.com**
-
-- 📄 Know about my experiences [SOON](SOON)
-
-- ⚡ Fun fact **I treat GitHub like my diary — full of daily code entries 📓👨‍💻**
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/sadhudev007" target="_blank">
