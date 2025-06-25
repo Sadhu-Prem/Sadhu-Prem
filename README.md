@@ -5,14 +5,22 @@
   <img src="https://komarev.com/ghpvc/?username=sadhu-prem&label=Profile%20views&color=0e75b6&style=flat" alt="sadhu-prem" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sadhu-prem" alt="GitHub Trophies" />
-  </a>
-</p>
 
-# 💫 About Me:
-🌱 I’m currently learning JavaScript, smart contract security, and building full-stack decentralized applications (dApps) with Web3 technologies.<br><br>👨‍💻 All of my projects are available at https://github.com/Sadhu-Prem<br><br>📝 I regularly write articles on SOON<br><br>💬 Ask me about smart contracts, Solidity, blockchain development, Python scripting, or how to get started in Web3.<br><br>📫 How to reach me Email – sadhublockchain.dev@gmail.com<br><br>📄 Know about my experiences SOON<br><br>⚡ Fun fact I treat GitHub like my diary — full of daily code entries 📓👨‍💻
+
+💫 About Me<br>
+🚀 Passionate blockchain developer with a strong foundation in Web3, smart contract engineering, and decentralized application (dApp) development. I focus on building secure, scalable, and user-centric solutions using Solidity, JavaScript, and modern blockchain frameworks.
+<br>
+👨‍💻 Explore all my projects on GitHub:[ github.com/Sadhu-Prem](https://github.com/Sadhu-Prem)
+<br>
+📝 I’ll soon be sharing in-depth technical articles focused on blockchain, smart contracts, and Web3 development.
+<br>
+💬 I'm always open to discussions around Solidity, smart contract architecture, blockchain ecosystems, Python automation, and pathways into Web3.
+<br>
+📫 Feel free to reach out via email: sadhublockchain.dev@gmail.com
+<br>
+⚡ Fun Fact: I treat GitHub like a digital journal — documenting my coding journey and growth every day. 
+
+
 
 # 📊 GitHub Stats:
 
